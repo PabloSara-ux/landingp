@@ -9,3 +9,9 @@
   font-variation-settings:
     "wdth" 100;
 }
+nav {
+    font-family: "Lobster", sans-serif;
+    font-weight: 200 350;
+    font-style: normal;
+    background: cornflowerblue
+  }
