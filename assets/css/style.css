@@ -9,6 +9,11 @@
   font-variation-settings:
     "wdth" 100;
 }
+
+htlm {html {
+  scroll-behavior: smooth;
+}}
+
 nav {
   font-family: "Lobster", sans-serif;
   font-weight: 200 350;
