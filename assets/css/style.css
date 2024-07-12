@@ -10,8 +10,28 @@
     "wdth" 100;
 }
 nav {
-    font-family: "Lobster", sans-serif;
-    font-weight: 200 350;
-    font-style: normal;
-    background: cornflowerblue
-  }
+  font-family: "Lobster", sans-serif;
+  font-weight: 200 350;
+  font-style: normal;
+  background: black
+}
+  h2
+    {
+    text-align: center;
+    }
+
+    /* .container {
+        max-width: 800px; /* Ancho máximo del contenedor */
+        margin: 0 auto; /* Centrar el contenedor horizontalmente */
+        padding: 20px; /* Espacio interior del contenedor */
+        background-color: #f0f0f0; /* Color de fondo del contenedor */
+    } */
+
+
+  body{
+    background-color: black;
+}
+
+section {
+    background-color: aqua;
+}
