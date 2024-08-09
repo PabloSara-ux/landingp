@@ -10,15 +10,27 @@
     "wdth" 100;
 }
 
-htlm {html {
+html {
   scroll-behavior: smooth;
-}}
+}
 
 nav {
   font-family: "Lobster", sans-serif;
   font-weight: 200 350;
   font-style: normal;
   background: black
+}
+  .navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Color negro con 50% de transparencia */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+
 }
   h2
     {
